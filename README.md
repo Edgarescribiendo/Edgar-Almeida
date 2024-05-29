@@ -1,5 +1,5 @@
-- # [English](https://github.com/Edgarescribiendo/Edgar-Almeida/blob/main/README.md#welcome-im-edgar)
-- # [Español](https://github.com/Edgarescribiendo/Edgar-Almeida/blob/main/README.md#bienvenido-a-mi-perfil-soy-edgar)
+- [English](https://github.com/Edgarescribiendo/Edgar-Almeida/blob/main/README.md#welcome-im-edgar)
+-  [Español](https://github.com/Edgarescribiendo/Edgar-Almeida/blob/main/README.md#bienvenido-a-mi-perfil-soy-edgar)
 
 
 # 😎👍 Welcome!, I'm Edgar 
