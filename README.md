@@ -1,5 +1,4 @@
-- # [English](https://github.com/Edgarescribiendo/Edgar-Almeida/blob/main/README.md#welcome-im-edgar)
-- 
+# [English](https://github.com/Edgarescribiendo/Edgar-Almeida/blob/main/README.md#welcome-im-edgar)
 # 😎👍 Welcome!, I'm Edgar 
 
 ## 🌐 Find me around the web 
@@ -17,7 +16,7 @@ I am an Industrial Maintenance engineer with experience in ​​diesel engine a
 ![alt text](image-2.png)  ![alt text](image-4.png) ![alt text](image-5.png) ![alt text](image-7.png)![alt text](image-8.png) ![alt text](image-9.png) ![alt text](image-11.png) ![alt text](image-12.png) ![alt text](image-13.png) ![alt text](image-14.png) ![alt text](image-15.png) ![alt text](image-16.png) ![alt text](image-17.png) 
 ![alt text](image-18.png) ![alt text](image-19.png) ![alt text](image-20.png)
 
-- # [Español](https://github.com/Edgarescribiendo/Edgar-Almeida/blob/main/README.md#bienvenido-a-mi-perfil-soy-edgar)
+# [Español](https://github.com/Edgarescribiendo/Edgar-Almeida/blob/main/README.md#bienvenido-a-mi-perfil-soy-edgar)
 # 😎👍 Bienvenido a mi perfil, soy Edgar!
 
 ## 🌐 Encuentrame en la red:
