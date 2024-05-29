@@ -1,5 +1,5 @@
 - # English 
-- # Español
+- # [Español](https://github.com/Edgarescribiendo/Edgar-Almeida/blob/main/README.md#espa%C3%B1ol)
 
 
 # Welcome!, I'm Edgar 
